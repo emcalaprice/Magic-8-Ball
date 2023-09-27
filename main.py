@@ -3,6 +3,7 @@ import turtle
 tommy = turtle.Turtle()
 tommy.speed(0)
 
+
 def drawBall():
   tommy.penup()
   tommy.goto(0,-200)
